@@ -1,18 +1,11 @@
-Document has been edited by Lerzan Ozkan Document has been opened and closed.
-Comment has been made on documentation branch.
+Document has been edited by Lerzan Ozkan Document has been opened and closed. Comment has been made on documentation branch.
 
-Date created
-Include the date you created this project and README file.
+Date created  : Feb3 2021 
 
-Project Title
-Replace the Project Title
+Project Title:  Bikeshare Python Project 
 
-Description
-Describe what your project is about and what it does
+Description :  Use Python to understand U.S. Bikeshare data. 
 
-Files used
-Include the files used
+Files used : Python education video
 
-Credits
-This project has been written by Lerzan Ozkan.
-
+Credits : Education video 
