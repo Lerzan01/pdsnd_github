@@ -1,10 +1,17 @@
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
+Document has been edited by Lerzan Ozkan.
+Document has been opened and closed First comment has been made on refactaring branch.
 
-* Lerzan01  
-      [https://github.com/Lerzan01/pdsnd_github]
+Date created
+Include the date you created this project and README file.
 
-* it will commit   
-With the help of:
+Project Title
+Replace the Project Title
 
-* Colt
+Description
+Describe what your project is about and what it does
+
+Files used
+Include the files used
+
+Credits
+This project has been written by Lerzan Ozkan.
